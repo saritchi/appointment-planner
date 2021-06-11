@@ -9,3 +9,7 @@ Appointment Planner is a React app where a user can submit contact information t
 ## Technologies
 
 * React
+
+## Launch
+
+[Click here to view!](https://srappointmentplanner.surge.sh/contacts)
